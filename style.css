@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav {
+    height: 50;
+    background: #6C3082;
+    align-items: center;
+    padding-top: 10;
+}
+
+
+.OneShot{
+    background-color: blueviolet;
+    height: 450; 
+}
+
+.Whiplash{
+    background-color: rgb(124, 87, 18);
+    height: 450; 
+}
+
+
+.Items{
+    margin-left: 15;
+}
+
+.button {
+    padding: 1rem 3rem;
+    font-size: 25;
+    border: none;
+    color: #6C3082;
+    background: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.Banner {
+    display: contents;
+}
+
+.BannerPhoto{
+    width: 616;
+    height: 353;
+}
